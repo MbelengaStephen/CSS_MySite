@@ -1,0 +1,141 @@
+body {
+  color: black;
+  text-align: center;
+  margin: 0;
+  font-family: "Hahmlet", serif;
+}
+
+a {
+  color: #DF5E5E;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: "Hahmlet", serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+h1 {
+  margin: 10px;
+  font-size: 5.625rem;
+  color: #53B8BB;
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.topcontainer {
+  background-color: #96BAFF;
+}
+
+.web-img {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: white;
+}
+
+.middle-container {
+  padding: 50px 0;
+  background-color: #EEEEEE;
+}
+
+h2 {
+  color: #DF5E5E;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #DF5E5E;
+  font-family: 'Hahmlet', serif;
+}
+
+h4 {
+  color: #7C83FD;
+  font-size: 2.5rem;
+  margin: 0;
+  font-weight: normal;
+}
+
+.Pro {
+  text-decoration: underline;
+}
+
+.middle-cloud {
+  position: absolute;
+  right: 800px;
+}
+
+.top-cloud {
+  position: relative;
+  padding-top: 100px;
+  right: -350px;
+}
+
+.footer-link {
+  color: #DF5E5E;
+}
+
+hr {
+  margin: 100px auto;
+  border-style: dotted;
+  border-top-style: none;
+  border-width: 4px;
+  width: 5%;
+  color: #778899;
+}
+
+.copyright {
+  color: red;
+}
